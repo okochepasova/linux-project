@@ -1,6 +1,7 @@
 # linux-project
 
 IP: 18.217.1.39
+
 SSH: 2200
 
 URL: http://ec2-18-217-1-39.us-east-2.compute.amazonaws.com/
